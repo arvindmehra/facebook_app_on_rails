@@ -42,4 +42,3 @@ gem 'quiet_assets'
 # gem 'capistrano'
 
 # To use debugger
-gem 'debugger'
